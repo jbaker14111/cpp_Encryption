@@ -3,4 +3,6 @@ I completed this project was attending Liberty University Online. This project e
 
 <h1> Images </h1>
 
-<img src="./Images/plain.png">
+[//]: # (this is a comment dude)
+
+<img src="./Images/plain.png" width="800">
