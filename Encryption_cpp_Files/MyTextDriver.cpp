@@ -65,7 +65,6 @@ int main() {//main will run a while loop until the user has entered 3 as their s
 	return 0;
 }
 int selectionMenu() {//prints selection menu and gets user's selection with error handling. takes inputs 1-3
-	cout << "Josiah Baker -- Lab 4 - Class Composition" << endl << endl << endl;
 	int selection;
 	cout << setw(20) << "Vigenere Cypher" << endl << endl;
 	cout << setw(16) << "Main Menu" << endl << endl;
@@ -164,7 +163,6 @@ void decryptFile() {//code to decrypt file of the user's choice then puts the de
 
 void returnFileName(string& fileName) {//returns file name after checking for errors in user input
 	ifstream inFile;
-	cout << "Josiah Baker -- Lab 4 - Class Composition" << endl << endl << endl;
 	cout << "Enter file name: ";
 	getline(cin, fileName);
 	cout << endl << endl;
