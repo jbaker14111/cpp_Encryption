@@ -3,6 +3,14 @@ I completed this project was attending Liberty University Online. This project e
 
 <h1> Images </h1>
 
-[//]: # (this is a comment dude)
-
 <img src="./Images/plain.png" width="800">
+
+<img src="./Images/menu.png" width="800">
+
+<img src="./Images/encrypting.png" width="800">
+
+<img src="./Images/encrypted.png" width="800">
+
+<img src="./Images/decrypting.png" width="800">
+
+<img src="./Images/decrypted.png" width="800">
